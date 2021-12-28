@@ -1,0 +1,23 @@
+package gameview.gameimage;
+
+public enum SpriteName {
+/*
+    DEFAULT,
+    SHIP, SHIP_CRASH,
+    SHIELD, SHIELDCELL_BLANK,
+    UFO,
+    CRAB, OCTOPUS, SQUID,
+    MISSILE, ALIEN_SPLAT, MISSILE_SPLAT, SPLAT,
+    BOMB_TUMBLE,
+    BOMB_ZIGZAG,
+    BOMB_DRILL
+*/
+
+    //Last SpriteName is drawn first
+    SHIELDCELL_BLANK, SHIELD, SPLAT,
+    BOMB_TUMBLE, BOMB_ZIGZAG, BOMB_DRILL,
+    MISSILE_SPLAT, ALIEN_SPLAT, MISSILE,
+    CRAB, OCTOPUS, SQUID, UFO, UFO_CRASH,
+    SHIP_CRASH, SHIP,
+    DEFAULT
+}
