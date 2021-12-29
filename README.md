@@ -8,7 +8,7 @@
 -->
 
 ## SpaceGame
-This is a reimplementation of a well-known arcade game. It uses JavaFX minimally to provide a canvas to work with.  
+This is a reimplementation of a well-known arcade game. It uses JavaFX minimally to provide a canvas.  
 
 <!-- GETTING STARTED -->
 ## Getting Started
